@@ -1,0 +1,43 @@
+{
+  "name": "error-render",
+  "version": "1.0.0",
+  "description": "Prettify the details of the errors in the console.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "unitjs ./test/index.js --reporter spec"
+  },
+  "dependencies": {
+    "longjohn":       "0.2.x",
+    "prettyjson":     "1.x.x",
+    "pretty-error":   "0.1.x"
+  },
+  "devDependencies": {
+    "unit.js": "0.x.x"
+  },
+  "keywords": [
+    "error",
+    "render",
+    "debug",
+    "console"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nicolab/node-error-render"
+  },
+  "bugs": {
+    "url": "https://github.com/Nicolab/node-error-render/issues"
+  },
+  "author": {
+    "name":"Nicolas Tallefourtane",
+    "url":"http://nicolab.net"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Nicolab/node-error-render/blob/master/LICENSE"
+    }
+  ]
+}
