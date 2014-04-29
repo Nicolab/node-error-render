@@ -51,7 +51,7 @@ npm test
 
 ## LICENSE
 
-[MIT license](https://github.com/Nicolab/node-error-handler/blob/master/LICENSE)
+[MIT license](https://github.com/Nicolab/node-error-render/blob/master/LICENSE)
 
 
 ## Author
