@@ -1,7 +1,7 @@
 # error-render
 
 [![Actual version published on NPM](https://badge.fury.io/js/error-render.png)](https://www.npmjs.org/package/error-render)
-[![Dependencies](https://david-dm.org/Nicolab/node-error-render.png)](https://david-dm.org/Nicolab/error-render)
+[![Dependencies](https://david-dm.org/Nicolab/node-error-render.png)](https://david-dm.org/Nicolab/node-error-render)
 
 
 ## Install
