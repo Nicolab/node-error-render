@@ -1,6 +1,6 @@
 {
   "name": "error-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettify the details of the errors in the console.",
   "main": "index.js",
   "directories": {
@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "longjohn":       "0.2.x",
-    "prettyjson":     "1.x.x",
-    "pretty-error":   "0.1.x"
+    "prettyjson":     "1.x",
+    "pretty-error":   "1.x"
   },
   "devDependencies": {
     "unit.js": "0.x.x"
