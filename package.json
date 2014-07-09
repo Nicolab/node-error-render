@@ -1,6 +1,6 @@
 {
   "name": "error-render",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Prettify the details of the errors in the console.",
   "main": "index.js",
   "directories": {
